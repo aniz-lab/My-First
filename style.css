@@ -37,7 +37,7 @@ body{
   float:right;
   width:70px;
   display:block;
-  text-align:left;
+  text-align:center;
   color:#fff;
   text-decoration:none;
 }
@@ -46,6 +46,7 @@ body{
   background-color:#4b88bb;
   display:block;
 }
+
 
 
 
