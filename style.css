@@ -34,7 +34,7 @@ body{
 }
 
 .menu ul li a{
-  float:right;
+  float:left;
   width:70px;
   display:block;
   text-align:center;
